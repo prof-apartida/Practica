@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/d29f33869fa2480fbff9775266d8a8e5/artifacts
+end_time: 1752919998333
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: d29f33869fa2480fbff9775266d8a8e5
+run_name: industrious-elk-845
+run_uuid: d29f33869fa2480fbff9775266d8a8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752919989625
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/955277643914825373/8e8ab2a9c89648f58f8946aad0dd3bfe/artifacts
+end_time: 1752920031126
+entry_point_name: ''
+experiment_id: '955277643914825373'
+lifecycle_stage: active
+run_id: 8e8ab2a9c89648f58f8946aad0dd3bfe
+run_name: nosy-colt-338
+run_uuid: 8e8ab2a9c89648f58f8946aad0dd3bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752920024341
+status: 3
+tags: []
+user_id: root
