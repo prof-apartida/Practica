@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/7601bf7fa59b430bb207996610b08e7a/artifacts
+end_time: 1753293219854
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 7601bf7fa59b430bb207996610b08e7a
+run_name: likeable-shark-82
+run_uuid: 7601bf7fa59b430bb207996610b08e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753293216991
+status: 3
+tags: []
+user_id: root

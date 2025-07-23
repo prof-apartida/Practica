@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/454408747366455150/112e9e123eb84dc8a59a3ab4e9ecb436/artifacts
+end_time: 1753294272150
+entry_point_name: ''
+experiment_id: '454408747366455150'
+lifecycle_stage: active
+run_id: 112e9e123eb84dc8a59a3ab4e9ecb436
+run_name: mercurial-turtle-154
+run_uuid: 112e9e123eb84dc8a59a3ab4e9ecb436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753294266351
+status: 3
+tags: []
+user_id: root

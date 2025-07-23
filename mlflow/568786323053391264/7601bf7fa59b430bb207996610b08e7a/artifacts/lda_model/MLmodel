@@ -1,0 +1,21 @@
+artifact_path: lda_model
+flavors:
+  python_function:
+    artifacts:
+      joblib_model:
+        path: artifacts/lda_model.joblib
+        uri: /content/Practica/modelos/lda_model.joblib
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.13
+    streamable: false
+mlflow_version: 2.19.0
+model_size_bytes: 200327
+model_uuid: 4aa22de814ad4ae094290b5d46ef9f67
+run_id: 7601bf7fa59b430bb207996610b08e7a
+utc_time_created: '2025-07-23 17:53:37.000286'
