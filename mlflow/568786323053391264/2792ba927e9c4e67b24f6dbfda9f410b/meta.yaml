@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/2792ba927e9c4e67b24f6dbfda9f410b/artifacts
+end_time: 1784120914931
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 2792ba927e9c4e67b24f6dbfda9f410b
+run_name: puzzled-ox-164
+run_uuid: 2792ba927e9c4e67b24f6dbfda9f410b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784120904789
+status: 3
+tags: []
+user_id: root
