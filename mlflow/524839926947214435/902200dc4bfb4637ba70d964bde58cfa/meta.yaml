@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/524839926947214435/902200dc4bfb4637ba70d964bde58cfa/artifacts
+end_time: 1784121661742
+entry_point_name: ''
+experiment_id: '524839926947214435'
+lifecycle_stage: active
+run_id: 902200dc4bfb4637ba70d964bde58cfa
+run_name: clean-skink-753
+run_uuid: 902200dc4bfb4637ba70d964bde58cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784121655751
+status: 3
+tags: []
+user_id: root
